@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "Ноябрь 30, 2025",
+      "title": "Пингачок",
+      "description": "авмава",
+      "changes": [
+        {
+          "text": "ава",
+          "category": "improvement"
+        }
+      ]
+    }
+  ]
+}
